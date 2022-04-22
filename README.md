@@ -1,3 +1,4 @@
-# Instagram-Reset-Bot
-Java bot for sending multithreaded password reset request for specific user.
-i dont take any responsibilities from using it so use at your own risk.
+# Reset-Bot
+Multithreaded password reset bot compatible with Instagram, Twitter and Spotify. Paste username or email adress then set threads and delay then press start.
+Made by Benerkaya.		
+I dont take any responsibilities so use at your own risk.
